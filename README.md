@@ -48,7 +48,7 @@ J’aime construire des outils utiles pour les créateurs, notamment dans le dom
 📧 Email :
 <spprttexta@gmail.com>
 
-💬 Doscord :
+💬 Discord :
 @marceltexta
 
 
