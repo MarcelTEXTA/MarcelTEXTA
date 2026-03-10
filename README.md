@@ -54,7 +54,7 @@ J’aime construire des outils utiles pour les créateurs, notamment dans le dom
 
 ---
 
-<div class="center">
+<div align="center">
 
 Codé avec 💙 pour un nouveau monde numérique
 
