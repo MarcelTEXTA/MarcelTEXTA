@@ -52,4 +52,10 @@ J’aime construire des outils utiles pour les créateurs, notamment dans le dom
 @marceltexta
 
 
-Merci de visiter mon profil ! 😊
+---
+
+<div class="center">
+
+Codé avec 💙 pour un nouveau monde numérique
+
+</div>
